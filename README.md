@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Unsha!;A+Passionate+Frontend+Developer;Learning+Web+%26+App+Dev+at+SMIT;Flutter+%7C+JS+%7C+CSS+%7C+HTML" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=unshakhan&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
-
 </div>
 
 ---

@@ -65,7 +65,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" padding-bottom="20px" src="https://github-readme-stats.vercel.app/api?username=Unshakhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unshakhan&layout=compact&theme=tokyonight" />
 </p>
 
